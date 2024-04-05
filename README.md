@@ -5,6 +5,7 @@
 
 
 ## Le projet
+TESTCAM
 Notre programme est une implémentation d'une problème d'élasticité linéaire plane en language C. L'objectif est de trouver le plus court chemin ayant le plus grand coût, d'un noeuds source à un noeuds destination d'un graphe orienté et pondéré pouvant contenir des poids négatifs.
 
 
